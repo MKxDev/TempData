@@ -6,7 +6,7 @@ Simple ASP.NET MVC-like TempData provider for Node.js applications. Values added
 ## Example
 Using tempData could not be easier. Once all setup is done, start adding values using `req.tempData.set(name, value)` and retrieving them using `req.tempData.get(name)`.
 ``` js
-	var tempData = require('tempData');
+	var tempData = require('tempdata');
 	var app = express();
 
 	app.configure(function() {
