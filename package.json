@@ -1,0 +1,10 @@
+{
+	"name": "TempData",
+	"version": "0.0.1",
+	"description": "ASP.NET MVC-like TempData support for Express.js",
+	"main": "./lib/tempdata.js",
+	"repository" : {
+		"type" : "git",
+		"url" : "https://github.com/MKxDev/TempData.git"
+	}
+}
