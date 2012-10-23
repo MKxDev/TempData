@@ -165,5 +165,5 @@ pip-log.txt
 ########################
 ## Sublime Text Editor
 ########################
-*.sublime-project
-*.sublime-workspace
+## *.sublime-project
+## *.sublime-workspace
