@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"sess",
+				"sessionTempData"
+			],
+			[
 				"tempD",
 				"tempData"
 			]
@@ -36,6 +40,11 @@
 	},
 	"file_history":
 	[
+		"/D/ApricotTree/TempData/package.json",
+		"/D/ApricotTree/TempData/lib/tempData.js",
+		"/D/ApricotTree/TempData/README.md",
+		"/D/ApricotTree/TempData/example/app.js",
+		"/D/ApricotTree/TempData/example/views/index.jade",
 		"/D/Bambino/Code/App/views/layout.jade",
 		"/D/Bambino/Code/App/node_modules/passport-twitter/node_modules/passport-oauth/lib/passport-oauth/strategies/oauth2.js",
 		"/D/ApricotTree/revalidator/lib/revalidator.js"
@@ -56,6 +65,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"val",
 			"router",
 			"cookieSession",
 			"cookieDecoder"
@@ -87,7 +97,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 31.0
 	},
 	"layout":
 	{

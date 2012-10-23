@@ -1,5 +1,5 @@
 {
-	"name": "TempData",
+	"name": "tempdata",
 	"version": "0.0.1",
 	"description": "ASP.NET MVC-like TempData support for Express.js",
 	"main": "./lib/tempdata.js",
